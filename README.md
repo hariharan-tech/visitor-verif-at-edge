@@ -124,5 +124,3 @@ Firmware driver support
 *   [ILI9341 Display driver](https://github.com/analogdevicesinc/msdk/blob/main/Libraries/MiscDrivers/Display/tft_ili9341.h)
 *   [LVGL reference for MAX series microcontrollers](https://github.com/analogdevicesinc/msdk/tree/main/Libraries/LVGL)
 *   [VGA CMOS Camera Driver](https://github.com/analogdevicesinc/msdk/blob/main/Libraries/MiscDrivers/Camera/camera.h)
-
-  We would like to thank CircuitDigest and Digikey India Team for organising and supporting this project initiative.
