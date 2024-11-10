@@ -1,0 +1,3215 @@
+ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 69ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 47ms
+I[facedetection: 149] 	FaceDetect Process Time : 69ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 47ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 135ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 69ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 47ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 47ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 47ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 47ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 47ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 69ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 47ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 47ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 135ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 69ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 47ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 47ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 47ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 69ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 47ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 47ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 69ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 69ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 47ms
+I[facedetection: 149] 	FaceDetect Process Time : 69ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 47ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 135ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 69ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 69ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 69ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 47ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 135ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 69ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 135ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 69ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 69ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 69ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 49ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 135ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 69ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 47ms
+I[facedetection: 149] 	FaceDetect Process Time : 69ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 135ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 47ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 47ms
+I[facedetection: 149] 	FaceDetect Process Time : 69ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 47ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 135ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 135ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 47ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 47ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 135ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 135ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 69ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 69ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 47ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 47ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 135ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 69ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 135ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 69ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 69ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 69ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 49ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 135ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 69ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 69ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 47ms
+I[facedetection: 149] 	FaceDetect Process Time : 69ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 47ms
+I[facedetection: 149] 	FaceDetect Process Time : 69ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 135ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 135ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 135ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 69ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 69ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 47ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 47ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 137ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 135ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 135ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 69ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 47ms
+I[facedetection: 149] 	FaceDetect Process Time : 69ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 69ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 47ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 69ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 135ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 69ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 69ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 135ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 69ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 47ms
+I[facedetection: 149] 	FaceDetect Process Time : 69ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 47ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 47ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 135ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 135ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 71ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 47ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 47ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 47ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 69ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 69ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 47ms
+I[facedetection: 149] 	FaceDetect Process Time : 69ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 47ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 69ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 135ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 69ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 69ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 47ms
+I[facedetection: 149] 	FaceDetect Process Time : 69ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 47ms
+I[facedetection: 149] 	FaceDetect Process Time : 69ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 135ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 135ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 69ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 69ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 47ms
+I[facedetection: 149] 	FaceDetect Process Time : 69ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 47ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 135ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 69ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 69ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 47ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 47ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 135ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 137ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 135ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 69ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 135ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 69ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 69ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 135ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 135ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 69ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 47ms
+I[facedetection: 149] 	FaceDetect Process Time : 69ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 69ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 69ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 135ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 135ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 135ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 69ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 47ms
+I[facedetection: 149] 	FaceDetect Process Time : 69ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 47ms
+I[facedetection: 149] 	FaceDetect Process Time : 69ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 47ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 137ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 47ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 117ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 135ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 71ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 47ms
+I[facedetection: 149] 	FaceDetect Process Time : 69ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 47ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 47ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 135ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 135ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 47ms
+I[facedetection: 149] 	FaceDetect Process Time : 71ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 192] 	Face detected!
+I[faceid    : 368] 	FaceID result: Unknown subject
+I[faceid    :  96] 	FaceID Processing Time : 339ms
+I[main      : 202] 	----- (Total loop time: 480ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 37ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 109ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 126ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 46ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 117ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 135ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 47ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 47ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 71ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 47ms
+I[facedetection: 149] 	FaceDetect Process Time : 71ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 47ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 135ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 47ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 47ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 47ms
+I[facedetection: 149] 	FaceDetect Process Time : 72ms
+I[facedetection: 150] 	Total FaceDetect Time : 120ms
+I[main      : 192] 	Face detected!
+I[faceid    : 368] 	FaceID result: Unknown subject
+I[faceid    :  96] 	FaceID Processing Time : 339ms
+I[main      : 202] 	----- (Total loop time: 480ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 36ms
+I[facedetection: 149] 	FaceDetect Process Time : 72ms
+I[facedetection: 150] 	Total FaceDetect Time : 110ms
+I[main      : 192] 	Face detected!
+I[faceid    : 368] 	FaceID result: Unknown subject
+I[faceid    :  96] 	FaceID Processing Time : 339ms
+I[main      : 202] 	----- (Total loop time: 470ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 35ms
+I[facedetection: 149] 	FaceDetect Process Time : 71ms
+I[facedetection: 150] 	Total FaceDetect Time : 107ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 125ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 47ms
+I[facedetection: 149] 	FaceDetect Process Time : 72ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 192] 	Face detected!
+I[faceid    : 368] 	FaceID result: Unknown subject
+I[faceid    :  96] 	FaceID Processing Time : 339ms
+I[main      : 202] 	----- (Total loop time: 479ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 37ms
+I[facedetection: 149] 	FaceDetect Process Time : 72ms
+I[facedetection: 150] 	Total FaceDetect Time : 109ms
+I[main      : 192] 	Face detected!
+I[faceid    : 368] 	FaceID result: Unknown subject
+I[faceid    :  96] 	FaceID Processing Time : 339ms
+I[main      : 202] 	----- (Total loop time: 471ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 37ms
+I[facedetection: 149] 	FaceDetect Process Time : 72ms
+I[facedetection: 150] 	Total FaceDetect Time : 110ms
+I[main      : 192] 	Face detected!
+I[faceid    : 368] 	FaceID result: Unknown subject
+I[faceid    :  96] 	FaceID Processing Time : 340ms
+I[main      : 202] 	----- (Total loop time: 470ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 36ms
+I[facedetection: 149] 	FaceDetect Process Time : 72ms
+I[facedetection: 150] 	Total FaceDetect Time : 108ms
+I[main      : 192] 	Face detected!
+I[faceid    : 368] 	FaceID result: Unknown subject
+I[faceid    :  96] 	FaceID Processing Time : 339ms
+I[main      : 202] 	----- (Total loop time: 470ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 37ms
+I[facedetection: 149] 	FaceDetect Process Time : 72ms
+I[facedetection: 150] 	Total FaceDetect Time : 110ms
+I[main      : 192] 	Face detected!
+I[faceid    : 368] 	FaceID result: Unknown subject
+I[faceid    :  96] 	FaceID Processing Time : 339ms
+I[main      : 202] 	----- (Total loop time: 470ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 36ms
+I[facedetection: 149] 	FaceDetect Process Time : 72ms
+I[facedetection: 150] 	Total FaceDetect Time : 109ms
+I[main      : 192] 	Face detected!
+I[faceid    : 368] 	FaceID result: Unknown subject
+I[faceid    :  96] 	FaceID Processing Time : 339ms
+I[main      : 202] 	----- (Total loop time: 471ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 36ms
+I[facedetection: 149] 	FaceDetect Process Time : 72ms
+I[facedetection: 150] 	Total FaceDetect Time : 109ms
+I[main      : 192] 	Face detected!
+I[faceid    : 368] 	FaceID result: Unknown subject
+I[faceid    :  96] 	FaceID Processing Time : 339ms
+I[main      : 202] 	----- (Total loop time: 470ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 36ms
+I[facedetection: 149] 	FaceDetect Process Time : 71ms
+I[facedetection: 150] 	Total FaceDetect Time : 109ms
+I[main      : 192] 	Face detected!
+I[faceid    : 368] 	FaceID result: Unknown subject
+I[faceid    :  96] 	FaceID Processing Time : 340ms
+I[main      : 202] 	----- (Total loop time: 469ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 36ms
+I[facedetection: 149] 	FaceDetect Process Time : 71ms
+I[facedetection: 150] 	Total FaceDetect Time : 109ms
+I[main      : 192] 	Face detected!
+I[faceid    : 368] 	FaceID result: Unknown subject
+I[faceid    :  96] 	FaceID Processing Time : 340ms
+I[main      : 202] 	----- (Total loop time: 470ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 36ms
+I[facedetection: 149] 	FaceDetect Process Time : 72ms
+I[facedetection: 150] 	Total FaceDetect Time : 109ms
+I[main      : 192] 	Face detected!
+I[faceid    : 368] 	FaceID result: Unknown subject
+I[faceid    :  96] 	FaceID Processing Time : 339ms
+I[main      : 202] 	----- (Total loop time: 471ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 35ms
+I[facedetection: 149] 	FaceDetect Process Time : 72ms
+I[facedetection: 150] 	Total FaceDetect Time : 109ms
+I[main      : 192] 	Face detected!
+I[faceid    : 368] 	FaceID result: Unknown subject
+I[faceid    :  96] 	FaceID Processing Time : 339ms
+I[main      : 202] 	----- (Total loop time: 470ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 36ms
+I[facedetection: 149] 	FaceDetect Process Time : 72ms
+I[facedetection: 150] 	Total FaceDetect Time : 110ms
+I[main      : 192] 	Face detected!
+I[faceid    : 368] 	FaceID result: Unknown subject
+I[faceid    :  96] 	FaceID Processing Time : 340ms
+I[main      : 202] 	----- (Total loop time: 470ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 35ms
+I[facedetection: 149] 	FaceDetect Process Time : 72ms
+I[facedetection: 150] 	Total FaceDetect Time : 108ms
+I[main      : 192] 	Face detected!
+I[faceid    : 368] 	FaceID result: Unknown subject
+I[faceid    :  96] 	FaceID Processing Time : 339ms
+I[main      : 202] 	----- (Total loop time: 470ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 37ms
+I[facedetection: 149] 	FaceDetect Process Time : 72ms
+I[facedetection: 150] 	Total FaceDetect Time : 110ms
+I[main      : 192] 	Face detected!
+I[faceid    : 368] 	FaceID result: Unknown subject
+I[faceid    :  96] 	FaceID Processing Time : 339ms
+I[main      : 202] 	----- (Total loop time: 471ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 36ms
+I[facedetection: 149] 	FaceDetect Process Time : 71ms
+I[facedetection: 150] 	Total FaceDetect Time : 107ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 124ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 47ms
+I[facedetection: 149] 	FaceDetect Process Time : 71ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 47ms
+I[facedetection: 149] 	FaceDetect Process Time : 72ms
+I[facedetection: 150] 	Total FaceDetect Time : 120ms
+I[main      : 192] 	Face detected!
+I[faceid    : 368] 	FaceID result: Unknown subject
+I[faceid    :  96] 	FaceID Processing Time : 340ms
+I[main      : 202] 	----- (Total loop time: 482ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 35ms
+I[facedetection: 149] 	FaceDetect Process Time : 72ms
+I[facedetection: 150] 	Total FaceDetect Time : 108ms
+I[main      : 192] 	Face detected!
+I[faceid    : 368] 	FaceID result: Unknown subject
+I[faceid    :  96] 	FaceID Processing Time : 340ms
+I[main      : 202] 	----- (Total loop time: 470ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 36ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 107ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 124ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 47ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 47ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 47ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 135ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 135ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 135ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 69ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 47ms
+I[facedetection: 149] 	FaceDetect Process Time : 69ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 47ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 47ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 69ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 135ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 69ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 47ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 135ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 69ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 69ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 135ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 69ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 47ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 135ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 69ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 69ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 47ms
+I[facedetection: 149] 	FaceDetect Process Time : 69ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 47ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 135ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 135ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 69ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 135ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 69ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 69ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 135ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 135ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 137ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 69ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 47ms
+I[facedetection: 149] 	FaceDetect Process Time : 69ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 135ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 69ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 137ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 69ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 47ms
+I[facedetection: 149] 	FaceDetect Process Time : 69ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 69ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 69ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 135ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 135ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 69ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 47ms
+I[facedetection: 149] 	FaceDetect Process Time : 69ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 47ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 47ms
+I[facedetection: 149] 	FaceDetect Process Time : 69ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 135ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 135ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 135ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 69ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 47ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 47ms
+I[facedetection: 149] 	FaceDetect Process Time : 69ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 47ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 135ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 135ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 69ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 47ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 47ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 47ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 47ms
+I[facedetection: 149] 	FaceDetect Process Time : 69ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 47ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 135ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 69ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 135ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 69ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 135ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 69ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 69ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 135ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 69ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 47ms
+I[facedetection: 149] 	FaceDetect Process Time : 69ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 69ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 49ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 135ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 135ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 69ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 47ms
+I[facedetection: 149] 	FaceDetect Process Time : 69ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 69ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 69ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 135ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 135ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 135ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 135ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 47ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 47ms
+I[facedetection: 149] 	FaceDetect Process Time : 69ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 47ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 47ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 135ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 135ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 135ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 69ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 47ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 47ms
+I[facedetection: 149] 	FaceDetect Process Time : 69ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 47ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 135ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 135ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 69ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 47ms
+I[facedetection: 149] 	FaceDetect Process Time : 69ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 72ms
+I[facedetection: 150] 	Total FaceDetect Time : 122ms
+I[main      : 192] 	Face detected!
+I[faceid    : 368] 	FaceID result: Unknown subject
+I[faceid    :  96] 	FaceID Processing Time : 338ms
+I[main      : 202] 	----- (Total loop time: 482ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 36ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 108ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 125ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 47ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 192] 	Face detected!
+I[faceid    : 364] 	FaceID result: subject id: 5 
+
+I[faceid    : 366] 	FaceID result: subject name: Emma_W 
+
+I[faceid    :  96] 	FaceID Processing Time : 344ms
+I[main      : 202] 	----- (Total loop time: 484ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 33ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 104ms
+I[main      : 192] 	Face detected!
+I[faceid    : 364] 	FaceID result: subject id: 5 
+
+I[faceid    : 366] 	FaceID result: subject name: Emma_W 
+
+I[faceid    :  96] 	FaceID Processing Time : 344ms
+I[main      : 202] 	----- (Total loop time: 470ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 33ms
+I[facedetection: 149] 	FaceDetect Process Time : 71ms
+I[facedetection: 150] 	Total FaceDetect Time : 104ms
+I[main      : 192] 	Face detected!
+I[faceid    : 368] 	FaceID result: Unknown subject
+I[faceid    :  96] 	FaceID Processing Time : 338ms
+I[main      : 202] 	----- (Total loop time: 464ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 38ms
+I[facedetection: 149] 	FaceDetect Process Time : 71ms
+I[facedetection: 150] 	Total FaceDetect Time : 109ms
+I[main      : 192] 	Face detected!
+I[faceid    : 364] 	FaceID result: subject id: 5 
+
+I[faceid    : 366] 	FaceID result: subject name: Emma_W 
+
+I[faceid    :  96] 	FaceID Processing Time : 344ms
+I[main      : 202] 	----- (Total loop time: 476ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 33ms
+I[facedetection: 149] 	FaceDetect Process Time : 71ms
+I[facedetection: 150] 	Total FaceDetect Time : 104ms
+I[main      : 192] 	Face detected!
+I[faceid    : 364] 	FaceID result: subject id: 5 
+
+I[faceid    : 366] 	FaceID result: subject name: Emma_W 
+
+I[faceid    :  96] 	FaceID Processing Time : 344ms
+I[main      : 202] 	----- (Total loop time: 470ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 33ms
+I[facedetection: 149] 	FaceDetect Process Time : 71ms
+I[facedetection: 150] 	Total FaceDetect Time : 104ms
+I[main      : 192] 	Face detected!
+I[faceid    : 364] 	FaceID result: subject id: 5 
+
+I[faceid    : 366] 	FaceID result: subject name: Emma_W 
+
+I[faceid    :  96] 	FaceID Processing Time : 344ms
+I[main      : 202] 	----- (Total loop time: 470ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 33ms
+I[facedetection: 149] 	FaceDetect Process Time : 71ms
+I[facedetection: 150] 	Total FaceDetect Time : 104ms
+I[main      : 192] 	Face detected!
+I[faceid    : 364] 	FaceID result: subject id: 5 
+
+I[faceid    : 366] 	FaceID result: subject name: Emma_W 
+
+I[faceid    :  96] 	FaceID Processing Time : 344ms
+I[main      : 202] 	----- (Total loop time: 470ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 33ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 104ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 121ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 69ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 47ms
+I[facedetection: 149] 	FaceDetect Process Time : 69ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 47ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 47ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 135ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 135ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 69ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 47ms
+I[facedetection: 149] 	FaceDetect Process Time : 69ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 47ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 69ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 135ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 69ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 135ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 69ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 69ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 49ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 70ms
+I[facedetection: 150] 	Total FaceDetect Time : 118ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 69ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 69ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
+I[facedetection: 148] 	Image Capture Time : 48ms
+I[facedetection: 149] 	FaceDetect Process Time : 69ms
+I[facedetection: 150] 	Total FaceDetect Time : 119ms
+I[main      : 197] 	No face detected.
+I[main      : 202] 	----- (Total loop time: 136ms)
+
+I[main      : 185] 	-----
